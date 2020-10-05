@@ -3,7 +3,7 @@ This code forecasts a timeseries data using ARIMA by leveraging Map Reduce codin
 
 
 
-############################### Performing Time Series Analysis on Hadoop ###################################
+############# Performing Time Series Analysis on Hadoop ###########
 
 1. The .txt file is the original data which needs to be pre-processed in python with the .IPYNB file given.
 2. The .IPYNB file will generate a CSV file named household_powerconsumption.csv, which has to be ingested into the Linux Server.
